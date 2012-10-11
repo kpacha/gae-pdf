@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>PDFSP Commander</title>
+<link media="all" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/redmond/jquery-ui.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<div id="pdfsp_admin_header_menu">
+	<a href="#order">Order</a> | <a href="#template">Template</a>
+</div>
+<div id="pdfsp_admin_container">
+	<h1 id="pdfsp_admin_title"></h1>
+	<div id="pdfsp_admin_header">
+		 Sample content admin header
+	</div>
+	<div id="pdfsp_admin_bar">
+		<div class="pdfsp_admin_filters">
+			<form action="#" method="get">
+				<fieldset>
+					<h2>filters</h2>
+					<div class="form-row">
+						<label for="filters_username">Username:</label>
+						<div class="content">
+							<input type="text" size="15" value="" id="filters_username" name="filters[username]">
+						</div>
+					</div>
+					<div class="form-row">
+						<label for="filters_groups">Groups:</label>
+						<div class="content">
+							<span class="groups_filter">
+							<div class="groups_filter_group">
+								<input type="checkbox" value="1" id="filters_groups_1" name="filters[groups][]"><span class="groups_filter_group_label">
+								admin </span>
+							</div>
+							<div class="groups_filter_group">
+								<input type="checkbox" value="2" id="filters_groups_2" name="filters[groups][]"><span class="groups_filter_group_label">
+								tecnico </span>
+							</div>
+						</div>
+					</div>
+					<div class="form-row">
+						<label for="filters_created_at">Created at:</label>
+						<div class="content">
+							<input type="text" size="17" date_format="dd/MM/yyyy hh:mm:ss" value="" id="filters_created_at_from" name="filters[created_at][from]"><img alt="Date" src="/images/date.png" style="cursor: pointer; vertical-align: middle;" id="trigger_filters_created_at_from">
+							<input type="text" size="17" date_format="dd/MM/yyyy hh:mm:ss" value="" id="filters_created_at_to" name="filters[created_at][to]"><img alt="Date" src="/images/date.png" style="cursor: pointer; vertical-align: middle;" id="trigger_filters_created_at_to">
+						</div>
+					</div>
+				</fieldset>
+				<ul class="pdfsp_admin_actions">
+					<li><input type="button" onclick="document.location.href='#';" value="reset" class="pdfsp_admin_action_reset_filter"></li>
+					<li><input type="submit" class="pdfsp_admin_action_filter" value="filter" name="filter"></li>
+				</ul>
+			</form>
+		</div>
+	</div>
+	<div id="pdfsp_admin_content">
+		<table id="objectList" cellspacing="0" class="pdfsp_admin_list">
+		</table>
+		<ul class="pdfsp_admin_actions">
+			<li><input type="button" onclick="document.location.href='#';" value="create" class="pdfsp_admin_action_create"></li>
+		</ul>
+	</div>
+	<div id="pdfsp_admin_footer">
+		 Sample content admin footer
+	</div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+</body>
+</html>

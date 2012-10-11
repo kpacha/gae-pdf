@@ -1,0 +1,474 @@
+<h1>[TITLE]</h1>
+<div id="prcontent" class="entry inner">
+                <div class="ed">
+            <span class="declare">Advertisement</span>
+            <div id="mediumrectangletarget"> <div id="mediumrectangle">
+        <a href="http://auslieferung.commindo-media-ressourcen.de/www/delivery/ck.php?oaparams=2__bannerid=2360__zoneid=22__OXLCA=1__cb=b00c05e34e__oadest=https%3A%2F%2Fshop.smashingmagazine.com%2Fprinted-book-bundle.html%3Fpk_campaign%3Dsmashing_books-bundle%26pk_kwd%3Dsm-content_ad" target="_blank"><img src="http://auslieferung.commindo-media-ressourcen.de/www/delivery/ai.php?filename=shop-smashing_books_bundle.png&amp;contenttype=png" alt="Smashing Books Bundle - only $49.80 - Buy now!" title="Smashing Books Bundle - only $49.80 - Buy now!" width="400" height="250" border="0"></a><div id="beacon_b00c05e34e" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://auslieferung.commindo-media-ressourcen.de/www/delivery/lg.php?bannerid=2360&amp;campaignid=880&amp;zoneid=22&amp;loc=http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F02%2F04%2Fthe-art-and-science-of-the-email-signature%2F&amp;referer=http%3A%2F%2Fwww.google.es%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3Dhtml%2520email%2520signature%2520templates%26source%3Dweb%26cd%3D3%26ved%3D0CFAQFjAC%26url%3Dhttp%253A%252F%252Fwww.smashingmagazine.com%252F2010%252F02%252F04%252Fthe-art-and-science-of-the-email-signature%252F%26ei%3DHoKsTs2lGMSVswb6sYHGDw%26usg%3DAFQjCNElSn_-RW3SssFVeiUl85VUUzunvw%26sig2%3DzEylfveLINzicURig7MjAQ&amp;cb=b00c05e34e" alt="" style="width: 0px; height: 0px;" width="0" height="0"></div>
+
+    </div></div>
+        </div>
+
+                <p>Email signatures are so easy to do well, that it’s really a shame how often they’re done poorly. Many people want their signature to reflect their personality, provide pertinent information and more, but they can easily go overboard.&nbsp;Why are email&nbsp;signatures important? They may be boring and the last item on your list of things to get right, but they affect the tone of every email you write.</p>
+<h2>[ANNOTATION]</h2>
+<p>Email signatures contain&nbsp;alternative contact details, pertinent job titles and company names, which help the recipient get in&nbsp;touch when emails are not responded to. Sometimes, they give&nbsp;the recipient an idea of who wrote the email in case it has been a while since they have been in touch. They are also professional: like a letterhead, they show that you run a business (in some countries, you’re required to do so).&nbsp;Here are some <strong>tips on how to create a tasteful signature that works</strong>.</p>
+<div id="textadtarget"><div id="textad">[<strong>Editor's note</strong>: A must-have for professional Web designers and developers: <em>The Printed Smashing Books Bundle</em> is full of practical insight for your daily work.  <a href="http://auslieferung.commindo-media-ressourcen.de/www/delivery/ck.php?oaparams=2__bannerid=2863__zoneid=68__OXLCA=1__cb=2393a8bc6f__oadest=https%3A%2F%2Fshop.smashingmagazine.com%2Fprinted-book-bundle.html%3Fpk_campaign%3Dsmashing_books-bundle%26pk_kwd%3Dsm-ta-02" target="_self">Get the bundle right away</a>!]<div id="beacon_2393a8bc6f" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://auslieferung.commindo-media-ressourcen.de/www/delivery/lg.php?bannerid=2863&amp;campaignid=1018&amp;zoneid=68&amp;loc=1&amp;referer=http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F02%2F04%2Fthe-art-and-science-of-the-email-signature%2F&amp;cb=2393a8bc6f" alt="" style="width: 0px; height: 0px;" width="0" height="0"></div></div></div><h3>Be Concise</h3>
+
+<p>First and foremost, the sender’s header (the “From” field) should have a name, and you should use a company email address if you can. If someone sees <a href="mailto:stevies747@hotmail.com">stevies747@hotmail.com</a>, they’ll suspect it’s spam.&nbsp;If the sender’s header reads, “Steve Stevenson – Mister Stevenson Design Company” &lt;<a href="mailto:steve@misterstevenson.com">steve@misterstevenson.com</a>&gt;, they’ll know it’s a professional email from Steve, their trusted designer.</p>
+<p>Start by making your website a link. Many email clients convert email addresses and websites into links automatically, but not always. When you’re creating the HTML for an email, make sure the link will appear by adding writing it in HTML. And instead of linking text like “My website,” type out the URL, which will be useful for those who want to copy and paste the address.</p>
+<p>An email signature shouldn’t double the email’s length, so <strong>make it as short as possible</strong> (three lines is usually enough).&nbsp;Don’t get into your life story here.&nbsp;The purpose of a signature is to let them see who you are and how to get in touch with you.</p>
+<h4>Make Sure to Include…</h4>
+
+<ul>
+<li>Your name,</li>
+<li>Your company and position,</li>
+<li>How to get in touch with you.</li>
+</ul>
+<p>No need to include 10 different ways to get in touch with you. As in website design, less is more; and then they’ll know which way <em>you</em> prefer to be contacted. <strong>Go to two or three lines, with a maximum of 72 character per line </strong> (many email applications have a maximum width of 80 characters, so limit the length to avoid unsightly wrapping). An optional fourth line could be your company address, but use caution if you work from home.</p>
+<pre>--
+
+<strong>Steve Stevenson,&nbsp;Web Designer</strong>
+<a title="Mister Stevenson's website" href="http://www.misterstevenson.com">www.misterstevenson.com</a> |&nbsp;<a title="email Steve Stevenson" href="mailto:steve@misterstevenson.com">steve@misterstevenson.com</a></pre>
+<h4>Short and Concise, but Check the Rules</h4>
+<p>In some European countries, laws dictate what items you must put in your email signature if you are a registered company. For example, UK law requires private and public limited companies to include the following:</p>
+<ul>
+<li>Company number,</li>
+<li>Address of registration,</li>
+
+<li>VAT number, if there is one.</li>
+</ul>
+<p>You can be fined for not including this information on all electronic correspondence and on your website and stationary. Many freelancers and small businesses have ignored these rules since their inception, risking a fine. For more information on UK rules, <a title="Companies House rules on stationary" href="http://www.companieshouse.gov.uk/promotional/busStationery.shtml">go here</a>. Do some research to find out what rules apply in your country.</p>
+<pre>--
+<strong>Steve Stevenson, Web Designer</strong>
+<a title="Mister Stevenson's website" href="http://www.misterstevenson.com">www.misterstevenson.com</a> | <a title="email Steve Stevenson" href="mailto:steve@misterstevenson.com">steve@misterstevenson.com</a>
+55 Main Street, London, UK, EC2A 1RE
+Company number: 12345678</pre>
+
+<h4>Don’t Include…</h4>
+<ul>
+<li>Personal Twitter, IM or Skype details;</li>
+<li>Your home phone number or address (unless you want to be called by international clients early in the morning);</li>
+<li>The URL of your personal website;</li>
+<li>Random quotes at the bottom;</li>
+<li>Your entire skill set, CV and lifetime achievements in point form.</li>
+</ul>
+<p>Random quotes are fun for friends, but you risk offending business associates with whom you don’t have a personal relationship. Unless you want clients contacting you while you’re watching Lost, don’t share your home details far and wide. Also, don’t share your personal contact information with your corporate partners. They certainly won’t be interested in it, and you may not want them to know certain details about you. However, mentioning your corporate Twitter account or alternative means of contact in your signature might be useful, in case your correspondent is not able to get in touch with you by regular email.</p>
+<table width="610" border="0">
+
+<tbody>
+<tr>
+<td width="45"><img class="size-full wp-image-23551" title="animated duck" src="http://media.smashingmagazine.com/wp-content/uploads/2009/12/duck_stand_md_wht.gif" alt="animated duck" width="95" height="100" align="top"></td>
+<td width="315"><strong><span style="color: rgb(255, 0, 0); font-size: 20px; font-family: 'Comic Sans MS';">Steve Stevenson, Web Designer</span></strong><span style="color: rgb(255, 0, 0);"><br>
+</span><strong>web: </strong><a title="Mister Stevenson's website" href="http://www.misterstevenson.com">www.misterstevenson.com</a><br>
+<strong>blog:</strong> <a title="Celebrities need help" href="http://blogspot.celebritiesneedhelp.com">blogspot.celebritiesneedhelp.com<br>
+</a><strong>email: </strong><a title="email Steve Stevenson" href="mailto:steve@misterstevenson.com">steve@misterstevenson.com</a></td>
+</tr>
+<tr>
+
+<td></td>
+<td><strong>home: </strong>613.555.2654<br>
+<strong>home (wife): </strong>613.555.3369<br>
+<strong>work:</strong> 613.555.9876<br>
+<strong>cell:</strong> 613.555.1234
+<p>55 Drury Lane<br>
+Apartment 22<br>
+
+Ottawa, Ontario<br>
+Canada<br>
+<strong><br>
+twitter:</strong> @stevie_liverpool_fan<br>
+<strong>skype</strong>: stevie_the_man<br>
+<strong>messenger:</strong> stevie_mrstevenson<br>
+<strong><br>
+
+I specialize in:<br>
+Web design<br>
+Graphic design<br>
+Logo design<br>
+Front-end development<br>
+UI design<br>
+</strong><em><strong><br>
+“Flying may not be all plain sailing, but the fun of it is<br>
+worth the price.”</strong></em> -Amelia Aerheart</p></td>
+
+<td><strong><br>
+</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Don’t do this.</p>
+<h3>Images And Logos</h3>
+<p>Let’s get this out of the way now: <strong>your entire signature shouldn’t be an image</strong>. Sure, it will look exactly how you want, but it is completely impractical.&nbsp;Not only does an image increase the email’s file size, but it will likely be blocked before being opened. And how does someone copy information from an image?</p>
+<div>
+<dl id="attachment_23565" style="text-align: center; background-color: rgb(243, 243, 243); padding-top: 4px; width: 510px; margin: 10px; border: 1px solid rgb(221, 221, 221);">
+<dt><img style="padding: 0px; margin: 0px;" title="Steve Stevenson's email template" src="http://media.smashingmagazine.com/wp-content/uploads/2009/12/all_image.jpg" alt="all_image" width="500" height="120"></dt>
+
+<dd style="font-size: 11px; line-height: 17px; padding: 0px 4px 5px; margin: 0px;">This signature is too big at 20 KB and impossible to copy.</dd>
+</dl>
+</div>
+<p>Any images should be used with care and attention. If you do use one, make it small in both dimensions and size, and make it fit in aesthetically with the rest of the signature. 50 x 50 pixels should be plenty big for any logo. If you want to be taken seriously as a business person, do <em>not</em> make it an animated picture, dancing dog or shooting rainbow!</p>
+<p>Most email clients store images as attachments or block them by default. So, if you present your signature as an image, your correspondents will have a hard time guessing when you’ve sent a genuine attachment.</p>
+<p>The best way to include an image is to host it on a server somewhere and then use the absolute URL to insert the logo. For example, upload the logo to <code>http://www.example.com/uploads/logo.gif</code>. And then, in your email signature’s HTML, insert the image like so:</p>
+<div class="syntaxhighlighter  xml" id="highlighter_801483"><div class="bar"><div class="toolbar"><a class="item viewSource" style="width: 16px; height: 16px;" title="view source" href="#viewSource">view source</a><div class="item copyToClipboard"><embed id="highlighter_801483_clipboard" type="application/x-shockwave-flash" title="copy to clipboard" allowscriptaccess="always" wmode="transparent" flashvars="highlighterId=highlighter_801483" menu="false" src="http://media.smashingmagazine.com/themes/smashing/js/sh/clipboard.swf" width="16" height="16"></div><a class="item printSource" style="width: 16px; height: 16px;" title="print" href="#printSource">print</a><a class="item about" style="width: 16px; height: 16px;" title="?" href="#about">?</a></div></div><div class="lines"><div class="line alt1"><table><tbody><tr><td class="number"><code>1</code></td><td class="content"><code class="xml plain">&lt;</code><code class="xml keyword">img</code> <code class="xml color1">src</code><code class="xml plain">=</code><code class="xml string">"<a href="http://www.example.com/uploads/logo.gif">http://www.example.com/uploads/logo.gif</a>"</code> <code class="xml color1">width</code><code class="xml plain">=</code><code class="xml string">"300"</code> <code class="xml color1">height</code><code class="xml plain">=</code><code class="xml string">"250"</code> <code class="xml color1">alt</code><code class="xml plain">=</code><code class="xml string">"example's logo"</code> <code class="xml plain">/&gt;</code></td></tr></tbody></table></div></div></div>
+
+<h3>Don’t Be A Fancy Pants</h3>
+<h4>Use vCards With Caution</h4>
+<p>While vCards are a great, convenient way to share contact information, in emails they add bytes and appear as attachments. It is often said that you shouldn’t use a vCard for your email signature, because as helpful as it might be the first time you correspond with someone, receiving it every time after that gets annoying. Besides, the average email user won’t know what it is. Look at the example below. Would an average user know what that is?</p>
+<pre>---
+<strong>Steve Stevenson, Web Designer</strong>
+<a title="Mister Stevenson's website" href="http://www.misterstevenson.com">www.misterstevenson.com</a> | <a title="email Steve Stevenson" href="mailto:steve@misterstevenson.com">steve@misterstevenson.com</a>
+
+<img class="alignnone size-full wp-image-23543" title="vcard" src="http://media.smashingmagazine.com/wp-content/uploads/2009/12/vcard.png" alt="vcard" width="162" height="52"></pre>
+<p>If you do want to provide a vCard, just include a link to a remote copy.</p>
+
+<h4>What About Confidentiality Clauses?</h4>
+<p>If your emails include confidential information, you may need to include a non-disclosure agreement to prevent information leaks. However, good practice is never to send sensitive information as plain text in emails because the information could be extracted by third parties or forwarded by recipients to other people. Thus, including a non-disclosure agreement doesn’t make much sense if you do not send sensitive information anyway.</p>
+<p>Keep in mind, too, that the longer a confidentiality clause is, the more unlikely someone will actually read it. Again, check your country’s privacy laws. Some big companies require a disclosure with every email, but if you’re at a small company or are a freelancer and don’t really require it, then don’t put it in. The length of such clauses can be annoying, especially in short emails.</p>
+<pre>---
+Warm Regards &amp; Stay Creative!
+Aidan Huang (Editor)
+-------------------------------------------
+Onextrapixel
+Showcasing Web Treats Without Hitch
+web . <a href="http://www.onextrapixel.com">http://www.onextrapixel.com</a>
+twi . <a href="http://twitter.com/onextrapixel">http://twitter.com/onextrapixel</a>
+---------------------------------------------------------------------------------
+This email and any files transmitted with it are confidential and intended solely
+for the use of the individual or entity to whom they are addressed. If you have
+received this email in error please notify the sender. This message contains
+confidential information and is intended only for the individual named. If you
+are not the named addressee you should not disseminate, distribute or copy this
+email. Please notify the sender immediately by email if you have received this
+email by mistake and delete this email from your system. If you are not the
+intended recipient you are notified that disclosing, copying, distributing or
+taking any action in reliance on the contents of this information is strictly
+prohibited.</pre>
+<pre>--
+This email and any files transmitted with it are confidential. If you have received
+this email in error please notify the sender and then delete it immediately.
+Please note that any views or opinions presented in this email are solely those
+of the author and do not necessarily represent those of Company.
+
+The recipient should check this email and any attachments for the presence
+of viruses. Company accepts no liability for any damage caused by any virus
+transmitted by this email.
+
+Company may regularly and randomly monitor outgoing and incoming emails
+(including the content of them) and other telecommunications on its email
+and telecommunications systems. By replying to this email you give your
+consent to such monitoring.
+
+*****
+
+Save resources: think before you print.</pre>
+
+<h4>Don’t Be Afraid to Show Some Personality</h4>
+<p>Although your email signature should be concise and memorable, it doesn’t have to be boring. Feel free to make your email signature stand out by polishing it with your creative design ideas or your personal touch. Using a warm greeting, adding a cheeky key as Dan Rubin does or encouraging people to “stalk” you as Paddy Donnelly does, all show personality behind simple text.</p>
+<p>The key to a simple, memorable and beautiful email signature lies in balancing personal data and your contact details. In fact, some designers have quite original email signatures; most of the time, simple ASCII is enough.</p>
+<pre>--
+h: <a href="http://danielrubin.org">http://danielrubin.org</a>
+w: <a href="http://sidebarcreative.com">http://sidebarcreative.com</a>
+b: <a href="http://superfluousbanter.org">http://superfluousbanter.org</a>
+
+m: +1 234 567 8901
+i: superfluouschat
+
+k: h = home, w = work, b = blog, m = mobile, i = aim, k = key</pre>
+
+<pre>Paddy
+
+--
+
+The Site: <a href="http://iampaddy.com/">http://iampaddy.com</a>
+Stalk Me: <a href="http://twitter.com/paddydonnelly">http://twitter.com/paddydonnelly</a></pre>
+<pre>--
+
+With optimism,
+Dmitry Belitsky
+<a href="http://belitsky.info/">http://belitsky.info</a></pre>
+<pre>///////////////////////////////////////////////////////////////////
+/// Matthias Kretschmann     ///   krema@xxxxxxxx.xx            ///
+/// freelance designer &amp;     ///   www.kremalicious.com         ///
+/// photographer             ///   www.matthiaskretschmann.com  ///
+///////////////////////////////////////////////////////////////////
+/// media studies / communication science &amp; art history         ///
+/// MLU Halle-Wittenberg                                        ///
+///////////////////////////////////////////////////////////////////</pre>
+<pre>--
+With greetings from Freiburg, Germany,
+Vitaly Friedman (editor-in-chief)
+-------------------------------------------------
+Smashing Magazine
+http://www.smashingmagazine.com - http://www.twitter.com/smashingmag
+online magazine for designers and developers</pre>
+
+<h4>HTML?</h4>
+<p>If you can, stay away from HTML formatting. Every Web designer knows the pain of HTML newsletters, and while HTML is supported for email signatures, you’ll likely have problems with images and divider lines in different email clients. Some nice ASCII formatting may work in some cases.</p>
+<pre>--
+carole guevin . editor
+//// design + digital culture magazine
+////&nbsp;<a href="http://netdiver.net/">http://netdiver.net</a></pre>
+<pre>--
+Min, Tran Dinh
+Chief Creative Designer - Frexy Studio
+
+Website: http://frexy.com | Blog: http://min.frexy.com | Email: info@frexy.com
+Cellphone: (84) 012 345 678</pre>
+<pre>- --
+Rene Schmidt -- Berater für Web-Entwicklung &amp; eCommerce,
+Linux-Webserver-Systemadministration &amp; Web-Programmierung
+Vordamm 46, 21640 Horneburg; <a href="http://www.reneschmidt.de/">http://www.reneschmidt.de/</a>
+Tel: 0123.456.7.890; Skype: reneATreneschmidt.de
+Steuernummer 43/141/09180; USt-IdNr 219014862
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (MingW32)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+
+iEYEARECAAYFAktit8sACgkQucSanG9drm2ZYACggIeQST/C226LIsd/czEmrnrR
+TjUAniVPXI2lkA68fy3n+nUawdAE1nJ/
+=+vZR
+-----END PGP SIGNATURE-----</pre>
+
+<pre>---
+Geoff Teehan
+Teehan+Lax
+Web Platforms  |  Digital Campaigns  |  Mobile Applications  |  Strategic Consulting
+
+T: 416 123 4567 x 890  |  teehanlax.com  |  twitter.com/@teehanlax</pre>
+<pre>----------------------------------------
+Dmitry Dragilev
+
+ZURB | Marketing Lead
+getstarted@zurb.com
+<a href="http://www.zurb.com">http://www.zurb.com</a>
+------------------------------------------
+
+Follow our blog at:
+<a href="http://www.zurb.com/blog">http://www.zurb.com/blog</a>
+
+Follow us on Twitter: @zurb
+<a href="http://twitter.com/zurb">http://twitter.com/zurb</a>
+
+Check out Notable - Easiest way for teams to
+provide feedback on websites.
+<a href="http://www.notableapp.com">http://www.notableapp.com</a>
+------------------------------------------</pre>
+
+<pre>______________________________________________
+
+Website: <a href="http://www.webdesignerdepot.com">www.webdesignerdepot.com</a>
+Twitter: <a href="http://www.twitter.com/DesignerDepot">www.twitter.com/DesignerDepot</a></pre>
+<pre>Regards,
+
+Matt Ward
+Echo Enduring Media
+
+Web - <a href="http://www.echoenduring.com">http://www.echoenduring.com</a>
+Blog - <a href="http://blog.echoenduring.com">http://blog.echoenduring.com</a>
+Twitter - @echoenduring - Follow me!</pre>
+<pre>--
+Dan Rubin
+Sidebar Creative { Director of Training &amp; User Experience }
+
+mobile: +1 234 567 8901
+
+<a href="http://sidebarcreative.com">http://sidebarcreative.com</a></pre>
+<pre>--
+David Leggett
+Tutorial9 Founder
+555.012.34567
+@theleggett
+<a href="http://Tutorial9.net/">Tutorial9.net</a></pre>
+<pre>Gareth Hardy
+Graphic Designer | Down With Design
+
+<a href="http://www.downwithdesign.com/">www.downwithdesign.com</a>
+<a href="mailto:gareth@downwithdesign.com">gareth@downwithdesign.com</a>
++44 (0) 0123 456 789</pre>
+<pre>Grant Friedman
+<a href="http://www.colorburned.com/">www.colorburned.com</a>
+
+Follow me on Twitter!
+
+<a href="http://twitter.com/colorburned">http://twitter.com/colorburned</a>
+----------------------------------------</pre>
+<pre>Many thanks,
+Yaili.
+
+<a href="http://yaili.com/">yaili.com</a> |&nbsp;<a href="http://webdesignernotebook.com/">webdesignernotebook.com</a> |&nbsp;<a href="http://londonchronicles.com/">londonchronicles.com</a>
++44 (0) 1234 567890
+skype: inayaili</pre>
+<pre>Thanks!
+Jonathan Cutrell, Editor
+<a href="http://FuelYourInterface.com/">FuelYourInterface.com</a> | @FuelInterface | @jCutrell</pre>
+
+<pre>--
+All the best,
+
+Rob Bowen
+Copywriter | Designer | Creative Consultant
+
+Co-Founder/Editor @ Arbenting
+&amp; Dead Wings Designs
+
+http://arbent.net/blog
+
+http://deadwingsdesigns.com</pre>
+<pre>Arseny
+
+--
+Please consider the environment before printing this email.
+---
+Arseny Vesnin
+<a href="http://designcollector.net">http://designcollector.net</a>
+Calendar: <a href="http://2010.designcollector.net">http://2010.designcollector.net</a>
+Profile: <a href="http://designhub.ru">http://designhub.ru</a>
+Twitter: <a href="http://twitter.com/designcollector">http://twitter.com/designcollector</a>
+Flickr: <a href="http://www.flickr.com/groups/designcollector-6">http://www.flickr.com/groups/designcollector-6</a>
+
+Vimeo: <a href="http://vimeo.com/channels/designcollector">http://vimeo.com/channels/designcollector</a>
+Facebook: <a href="http://www.facebook.com/designcollector">http://www.facebook.com/designcollector</a></pre>
+<pre>Warm regards,
+
+Dipti Kankaliya
+{ dipti.kankaliya@studiomarch.com }
+
+Studio March Private Limited
+12 Moledina Road Camp Pune 1 India
+Phone: +91-20-26334002
+{ http://www.studiomarch.com }
+
+MarchCast – The Studio March blog
+{ http://www.studiomarch.com/mc }
+--
+This is an official email from Studio March Private Limited and is protected
+by a disclaimer. If you are not the intended recipient of this email, please
+visit: http://www.studiomarch.com/legal/email.</pre>
+<p>Of course, if you’re really keen to use HTML, <strong>keep it simple</strong>:</p>
+<ul>
+<li>Make sure it still looks good in plain text.</li>
+<li>Use black and standard-sized fonts, and stay away from big, tiny and rainbow-colored fonts.</li>
+
+<li>Don’t use CSS. Inline HTML formatting is universally accepted.</li>
+<li>Use common Web fonts.</li>
+<li>Including a logo? Make sure the signature looks nice even when the logo doesn’t load or is blocked.</li>
+<li>Check how it looks when forwarded. Do all the lines wrap correctly?</li>
+<li>You may want to load your company image as your gravatar from Gravatar.com as Joost de Valk does.</li>
+<li>Feel free to experiemnt with your e-mail signature: Jan Diblík uses a signature with dynamicaly changed promo image.</li>
+</ul>
+<p><span style="font-weight: normal;">–</span></p>
+<table width="579" border="0">
+<tbody>
+
+<tr>
+<td width="55"><img class="alignnone size-full wp-image-23545" title="mister stevenson logo" src="http://media.smashingmagazine.com/wp-content/uploads/2009/12/misterstevenson1.jpg" alt="mister stevenson logo" width="50" height="36"></td>
+<td width="513"><strong>Steve Stevenson, Web Designer<br>
+<span style="font-weight: normal;"><a title="Mister Stevenson's website" href="http://www.misterstevenson.com">www.misterstevenson.com</a> | <a title="email Steve Stevenson" href="mailto:steve@misterstevenson.com">steve@misterstevenson.com</a></span></strong></td>
+</tr>
+</tbody>
+</table>
+<p><img class="alignnone size-full wp-image-24587" title="Joost" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/joost.gif" alt="Joost" width="373" height="172"></p>
+<p><img src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/invert.jpg" alt="Invert" width="259" height="592"></p>
+<p><img class="alignnone size-full wp-image-24591" title="matt" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/matt2.gif" alt="matt" width="286" height="278"></p>
+<p><img class="alignnone size-full wp-image-24590" title="maggie" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/maggie2.gif" alt="maggie" width="510" height="243"></p>
+<p><img class="alignnone size-full wp-image-24589" title="luke w" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/lukew2.gif" alt="luke w" width="439" height="137"></p>
+
+<p><img src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/email-sig-adelle.png" alt="Adelle Charles" width="620" height="259"></p>
+<p><img class="alignnone size-full wp-image-24588" title="fubiz" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/fubiz2.gif" alt="fubiz" width="801" height="179"></p>
+<p><img class="alignnone size-full wp-image-24587" title="design informer" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/jad2.gif" alt="design informer" width="529" height="149"></p>
+<p><img class="alignnone size-full wp-image-24587" title="Caroline" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/caroline.gif" alt="Caroline" width="235" height="328"></p>
+<p><img class="alignnone size-full wp-image-24587" title="Nicola" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/chris.gif" alt="Nicola" width="719" height="321"></p>
+<p><img class="alignnone size-full wp-image-24587" title="Martin" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/martin.gif" alt="Martin" width="502" height="475"></p>
+<p><img class="alignnone size-full wp-image-24587" title="Nicola" src="http://media.smashingmagazine.com/wp-content/uploads/2010/02/nicola.jpg" alt="Nicola" width="713" height="316"></p>
+<h3>Separate Signature From Content</h3>
+<p>Your signature should clearly be a separate entity. Wikipedia explains the correct way to separate the signature:</p>
+<p><em>“The formatting of the sig block is prescribed somewhat more firmly: it should be displayed as plain text in a fixed-width font (no HTML, images, or other rich text), and must be delimited from the body of the message by a single line consisting of exactly two hyphens, followed by a space, followed by the end of line (i.e., “– \n”). This … allows software to automatically mark or remove the sig block as the receiver desires.”</em></p>
+<p>There are other less standard ways to separate your signature. While not automatic formatting, a line of —–, ======, or _______ or even just a few spaces will visually separate your signature from your email.</p>
+<pre>--
+----------------------------------
+Dan Oliver (editor)
+.net magazine (<a href="http://www.netmag.co.uk/">www.netmag.co.uk</a>)
+----------------------------------
+Twitter: danoliver
+Email:&nbsp;<a href="mailto:dan.oliver@futurenet.com">dan.oliver@futurenet.com</a>
+
+Phone: 01234 56789
+----------------------------------
+Address for deliveries:
+.net, Units 1 &amp; 2 Cottrell Court,
+Monmouth Place, Bath, BA1 2NP
+----------------------------------</pre>
+<pre>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Elliot Jay Stocks
+Elliot Jay Stocks Design Ltd.
+Registered in England &amp; Wales #1234567
+
+<a href="http://elliotjaystocks.com/">http://elliotjaystocks.com</a>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</pre>
+<pre>###
+
+Cheers,
+-Dan</pre>
+<pre>Vennlig hilsen
+Lars Bæk
+Byråleder &amp; Tekstforfatter
+...................................................
+JØSS!
+Storgata 15, 2408 Elverum
+Mob (+47) 01 23 45 67
+xxxx@joss.as | www.joss.as</pre>
+
+<pre>----------------------------------------------
+Information Architects Inc.
+Tokyo Zurich
+
+Oliver Reichenstein, Founder
+
+<a href="http://informationarchitects.jp/">http://informationarchitects.jp</a>
+<a href="http://webtrendmap.com/">http://webtrendmap.com</a>
+<a href="http://twitter.com/iA">http://twitter.com/iA</a>
+----------------------------------------------</pre>
+<h3>Wrestling With Your Email Client</h3>
+<p>Offering general advice on signatures is easy, sure. But anyone who has tried to implement automatic signatures in Outlook, Gmail or Yahoo knows it’s not always that simple. Here are some resources to help you get yours right every time.</p>
+<p><strong>Outlook</strong><br>
+Changing Outlook’s signature is a real pain, but <a title="Change your signature in Outlook" href="http://office.microsoft.com/en-us/help/HP052761261033.aspx">here</a>‘s&nbsp;a guide that teaches you a few things. If you use Outlook 2003, <a title="custom signatures for outlook 2003" href="http://office.microsoft.com/en-us/outlook/HA011246501033.aspx">here</a>‘s&nbsp;another tutorial on custom signatures.</p>
+
+<p><strong>Entourage</strong><br>
+Microsoft’s mail for mac works differently.  <a title="Set up email signature on entourage" href="http://www.ehow.com/how_4493731_set-up-email-signature-entourage.html">Here’s</a> a tutorial on how to set it up.</p>
+<p><strong>Gmail</strong><br>
+Want just one basic signature? <a title="create a gmail signature" href="http://www.basiccomputerinformation.ca/create-email-signature-gmail/">Here</a>‘s&nbsp;how to change the text. You’d think Google would allow you multiple signatures, links and a bit of formatting. If you’re looking for something a little more designed or wish to choose between multiple signatures, <a title="5 ways to have multiple signatures in Gmail" href="http://www.makeuseof.com/tag/5-ways-to-create-custom-multiple-signatures-in-gmail/">here</a> are five ways to do it in Firefox.</p>
+
+<p><strong>Hotmail</strong><br>
+Tips on custom images and more for Hotmail (Oh my!) can be found <a title="Pimp out your hotmail signature" href="http://www.pcmech.com/article/use-custom-images-in-your-hotmail-email-signature-how-to/">here</a>. If you use Windows Live, <a title="Create a custom email signature with windows live" href="http://windowslive.com/Connect/Post/4039c936-869f-470e-afa0-fe701cf01bec">here</a> is a tutorial on adding images and HTML. The detail is helpful, even if the images are <em>awful</em>.</p>
+<p><strong>Yahoo</strong><br>
+After a bit of research, I found that Yahoo used to support HTML signatures, but no longer. <a title="change your yahoo signature" href="http://help.yahoo.com/l/us/yahoo/mail/yahoomail/basics/basics-66.html">Here</a>‘s how to change your signature using rich text.</p>
+
+<p><strong>Apple Mail</strong><br>
+<a title="How to make an email signature in apple mail" href="http://theappleblog.com/2009/08/07/how-to-getting-more-from-mail-with-html-signatures/">Here</a> is a pretty decent tutorial, with some inline HTML for formatting. It then explains how to implement it in the application. You even get some hints on how it will look on the iPhone.</p>
+<p><strong>Palm Pre </strong><br>
+Learn how to customize your message on your Palm Pre&nbsp;<a title="Add a signature to your palm pre" href="http://www.technipages.com/palm-pre-add-email-signature.html">here</a>.</p>
+<p><strong>iPhone</strong><br>
+Customize your “Sent from my iPhone” message&nbsp;<a title="changing signature from your iphone" href="http://www.tuaw.com/2007/07/20/iphone-101-updating-your-sent-from-my-iphone-email-signature/">here</a>.</p>
+
+<p><strong>BlackBerry</strong><br>
+Some information on how to change your message on BlackBerry smartphones&nbsp;<a title="Changing your signature on a blackberry smartphone" href="http://docs.blackberry.com/en/smartphone_users/deliverables/9840/Change_a_signature_using_device_app_664558_11.jsp">here</a>.</p>
+<h3>Resources</h3>
+<ul>
+<li><a title="The 4 Personalities of Poor Email Signatures" href="http://www.sitepoint.com/blogs/2009/09/18/personalities-of-poor-email-signatures/">The 4 Personalities of Poor Email Signatures</a></li>
+<li><a title="20 tips for Creating an Effective Email Signature" href="http://www.sitepoint.com/blogs/2009/09/18/creating-an-effective-email-signature/">20 Tips for Creating an Effective Email Signature</a></li>
+<li><a title="Wikipedia-Signature block" href="http://en.wikipedia.org/wiki/Signature_block">About the Signature Block on Wikipedia</a></li>
+<li><a title="Email Signature Etiquette" href="http://www.hanselman.com/blog/EmailSignatureEtiquetteTooMuchFlair.aspx">Email Signature Etiquette</a></li>
+
+</ul>
+<h3>Related Posts</h3>
+<p>You may be interested in the following related posts:</p>
+<ul>
+<li><a href="http://www.smashingmagazine.com/2009/04/01/10-handy-tips-for-web-design-cvs-and-resumes/">How To Create A Great Web Design CV and Résumé?</a></li>
+<li><a href="http://www.smashingmagazine.com/2009/05/20/effective-business-card-design-better-than-a-plain-ol-business-card/">Business Card Design: Better Than A Plain Ol’ Business Card</a></li>
+<li><a href="http://www.smashingmagazine.com/2009/11/05/invoice-like-a-pro/">Invoice Like A Pro: Examples and Best Practices</a></li>
+</ul>
+<p><em>(al)</em></p>
+	<iframe title="Twitter For Websites: Tweet Button" style="width: 110px; height: 20px;" class="twitter-share-button twitter-count-horizontal" src="http://platform.twitter.com/widgets/tweet_button.html#_=1319928375794&amp;count=horizontal&amp;id=twitter_tweet_button_0&amp;lang=en&amp;original_referer=http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F02%2F04%2Fthe-art-and-science-of-the-email-signature%2F&amp;text=The%20Art%20And%20Science%20Of%20The%20Email%20Signature&amp;url=http%3A%2F%2Fwww.smashingmagazine.com%2F2010%2F02%2F04%2Fthe-art-and-science-of-the-email-signature%2F&amp;via=smashingmag" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
+
+    </div>

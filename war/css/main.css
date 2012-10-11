@@ -1,0 +1,353 @@
+#pdfsp_admin_container ul, #pdfsp_admin_container ol, #pdfsp_admin_container li, #pdfsp_admin_container h1, #pdfsp_admin_container h2, #pdfsp_admin_container h3, #pdfsp_admin_container h4, #pdfsp_admin_container h5, #pdfsp_admin_container h6, #pdfsp_admin_container pre, #pdfsp_admin_container form, #pdfsp_admin_container body, #pdfsp_admin_container html, #pdfsp_admin_container p, #pdfsp_admin_container blockquote, #pdfsp_admin_container fieldset, #pdfsp_admin_container input { margin: 0; padding: 0; }
+#pdfsp_admin_container a img,:link img,:visited img { border: none; }
+
+#pdfsp_admin_container a:link, #pdfsp_admin_container a:visited
+{
+  text-decoration: none;
+}
+
+#pdfsp_admin_container a:hover
+{
+  text-decoration: underline;
+}
+
+#pdfsp_admin_container td
+{
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  background-color: #fff;
+}
+
+#pdfsp_admin_container p
+{
+  margin-bottom: 5px;
+}
+
+#pdfsp_admin_container #pdfsp_admin_bar
+{
+  margin-top: 8px;
+  position: absolute;
+  right: 20px;
+  width: 250px;
+}
+
+#pdfsp_admin_container #pdfsp_admin_content
+{
+  margin-right: 270px;
+}
+
+#pdfsp_admin_container h1
+{
+  margin: 8px 0;
+  padding: 3px;
+  padding-left: 0px;
+  color: #555;
+  font-family: "Trebuchet MS", Arial, Verdana, sans-serif;
+  font-size: 25px;
+}
+
+#pdfsp_admin_container fieldset h2
+{
+  padding: 3px;
+  color: #333;
+  background-color: #ccf;
+  font-size: 11px;
+}
+
+#pdfsp_admin_container input, #pdfsp_admin_container textarea, #pdfsp_admin_container select
+{
+  padding: 3px;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  border: 1px solid #ddd;
+  vertical-align:middle;
+}
+
+#pdfsp_admin_container label
+{
+  display: block;
+  padding: 0 1em 3px 0;
+  float: left;
+  text-align: left;
+  width: 8em;
+  color: #666;
+  font-weight: normal !important;
+}
+
+#pdfsp_admin_container label.required
+{
+  color: #333 !important;
+  font-weight: bold !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_filters input[type="checkbox"] + label
+{
+  display: inline;
+  float: none;
+}
+
+#pdfsp_admin_container .save-ok
+{
+  margin-bottom: 10px;
+  border: 1px solid #73B65A;
+}
+
+#pdfsp_admin_container .save-ok h2
+{
+  margin: 0 !important;
+  padding: 5px 20px 5px 25px;
+  font-size: 11px;
+  color: #fff;
+  background: #73B65A url(../images/ok.png) no-repeat 5px 2px;
+}
+
+#pdfsp_admin_container .form-row
+{
+  clear: both;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+#pdfsp_admin_container .form-row .content
+{
+  padding-left: 9em;
+}
+
+#pdfsp_admin_container .form-errors
+{
+  margin-bottom: 10px;
+  border: 1px solid #f33;
+  background-color: #ffc;
+}
+
+#pdfsp_admin_container .form-errors h2
+{
+  padding: 5px 20px 5px 25px;
+  font-size: 11px;
+  color: #fff;
+  background: #f33 url(../images/error.png) no-repeat 5px 2px;
+}
+
+#pdfsp_admin_container .form-errors dl
+{
+  padding: 5px;
+}
+
+#pdfsp_admin_container .form-errors dt
+{
+  font-weight: bold;
+  float: left;
+  padding-right: 5px;
+}
+
+#pdfsp_admin_container .form-errors dd
+{
+  margin: 0;
+}
+
+#pdfsp_admin_container .form-error
+{
+  color: #f33;
+}
+
+#pdfsp_admin_container .form-error input, #pdfsp_admin_container .form-error select, #pdfsp_admin_container .form-error textarea
+{
+  border: 1px solid #f33;
+}
+
+#pdfsp_admin_container fieldset
+{
+  margin-bottom: 3px;
+  border: 1px solid #ddd;
+  border-bottom: 0px;
+  background-color: #fff;
+}
+
+#pdfsp_admin_container fieldset.collapsed * { display:none; }
+#pdfsp_admin_container fieldset.collapsed h2, #pdfsp_admin_container fieldset.collapsed { display:block !important; }
+#pdfsp_admin_container fieldset.collapsed .collapse-toggle { display: inline !important; }
+#pdfsp_admin_container fieldset.collapse h2 a.collapse-toggle { color:#ffc; }
+#pdfsp_admin_container fieldset.collapse h2 a.collapse-toggle:hover { text-decoration:underline; }
+
+#pdfsp_admin_container .float-left
+{
+  float: left;
+}
+
+#pdfsp_admin_container .float-right
+{
+  float: right;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_td_actions
+{
+  list-style-type: none;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_td_actions li
+{
+  list-style-type: none;
+  display: inline;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_actions
+{
+  margin: 10px 0;
+  list-style-type: none;
+  text-align: right;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_actions a
+{
+  color: #333;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_actions li
+{
+  list-style-type: none;
+  display: inline;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_actions input
+{
+  padding: 3px 3px 3px 20px;
+  color: #333;
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  border: 0px;
+  border-right: 4px solid #999;
+  background-color: #ffc;
+  cursor: hand;
+  cursor: pointer;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_create
+{
+  background: url(../images/add.png) no-repeat 3px 2px;
+  border-right: 4px solid #73B65A !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_save
+{
+  background: url(../images/save.png) no-repeat 3px 2px;
+  border-right: 4px solid #73B65A !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_save_and_add
+{
+  background: url(../images/save.png) no-repeat 3px 2px;
+  border-right: 4px solid #73B65A !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_save_and_list
+{
+  background: url(../images/save.png) no-repeat 3px 2px;
+  border-right: 4px solid #73B65A !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_delete
+{
+  background: url(../images/delete.png) no-repeat 3px 2px;
+  border-right: 4px solid #E75C58 !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_cancel
+{
+  background: url(../images/cancel.png) no-repeat 3px 2px;
+  border-right: 4px solid #E75C58 !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_filter
+{
+  background: url(../images/filter.png) no-repeat 3px 2px;
+  border-right: 4px solid #66f !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_reset_filter
+{
+  background: url(../images/reset.png) no-repeat 3px 2px;
+  border-right: 4px solid #E75C58 !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_action_list
+{
+  background: url(../images/list.png) no-repeat 3px 2px;
+  border-right: 4px solid #66f !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_default_action
+{
+  background-color: #fc6 !important;
+  font-weight: bold !important;
+}
+
+#pdfsp_admin_container .pdfsp_admin_list
+{
+  width: 100%;
+  border: 1px solid #ddd;
+  border-bottom: 0px;
+  border-right: 0px;
+}
+
+#pdfsp_admin_container .pdfsp_admin_list th
+{
+  padding: 2px;
+  background-color: #ccf;
+  text-align: left;
+}
+
+#pdfsp_admin_container .pdfsp_admin_list th a
+{
+  color: #333;
+}
+
+#pdfsp_admin_container .pdfsp_admin_list td
+{
+  padding: 3px;
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+#pdfsp_admin_container .pdfsp_admin_filters li
+{
+  list-style-type: none;
+}
+
+#pdfsp_admin_container .pdfsp_admin_row_0 td
+{
+  
+}
+
+#pdfsp_admin_container .pdfsp_admin_row_1 td
+{
+  background-color: #eef;
+}
+
+#pdfsp_admin_container .pdfsp_admin_edit_help
+{
+  color: #aaa;
+}
+
+#pdfsp_admin_container .mceEditor td
+{
+  padding: 0px;
+}
+
+#pdfsp_admin_container select.pdfsp_admin_multiple, #pdfsp_admin_container select.pdfsp_admin_multiple-selected
+{
+  width: 12em;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_checklist li
+{
+  list-style: none;
+  line-height: 1.5em;
+}
+
+#pdfsp_admin_container ul.pdfsp_admin_checklist li label
+{
+  display: inline;
+  float: none;
+}
